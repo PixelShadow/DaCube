@@ -1,2 +1,6 @@
 # DaCube
-A cube rotating arround x, y and z axis at different speeds, made with SDL2.
+A cube rotating arround x, y and z axis at different speeds, made with C++.
+
+Press the escape key to close the window.
+
+Made with the Eigen v3.3, Eigen and cmath libraries.
